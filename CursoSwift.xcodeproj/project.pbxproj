@@ -22,6 +22,7 @@
 		9E99E6381DA5ECB500DD0FD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E99E63B1DA5ECB500DD0FD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E99E63D1DA5ECB500DD0FD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E99E6441DA5F23700DD0FD4 /* VelocimetroDigital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VelocimetroDigital.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				9E99E6381DA5ECB500DD0FD4 /* Assets.xcassets */,
 				9E99E63A1DA5ECB500DD0FD4 /* LaunchScreen.storyboard */,
 				9E99E63D1DA5ECB500DD0FD4 /* Info.plist */,
+				9E99E6441DA5F23700DD0FD4 /* VelocimetroDigital.playground */,
 			);
 			path = CursoSwift;
 			sourceTree = "<group>";
@@ -287,6 +289,7 @@
 				9E99E6421DA5ECB500DD0FD4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
